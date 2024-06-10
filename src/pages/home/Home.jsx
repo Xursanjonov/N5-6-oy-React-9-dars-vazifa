@@ -1,7 +1,7 @@
 import React, { memo } from 'react'
-import ProductsWrapper from '../../components/products-wrapper/ProductsWrapper'
 import { nanoid } from 'nanoid'
 import { youtubeData } from '../../static'
+import ProductsWrapper from '../../components/products-wrapper/ProductsWrapper'
 
 const Home = () => {
 
